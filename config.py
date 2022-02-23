@@ -1,0 +1,18 @@
+#Celestial Body Masses
+SUN_MASS = 1.98892 * 10 **30
+MERCURY_MASS = 3.3022 * 10**23
+VENUS_MASS = 4.8685 * 10**23
+EARTH_MASS = 5.9742 * 10**24
+MARS_MASS = 6.4185 * 10**23
+#Celestial Bodies Inital Velocity
+MERCURY_VEL = -47.4 * 1000
+VENUS_VEL = -35.02 * 1000
+EARTH_VEL = 29.783 * 1000
+MARS_VEL = 24.077 * 1000
+#Celestial Body Colors
+WHITE = (255, 255, 255)
+YELLOW = (255, 255, 0)
+BLUE = (100, 149, 237)
+RED = (188, 39, 50)
+DARK_GREY = (80, 78, 81)
+
